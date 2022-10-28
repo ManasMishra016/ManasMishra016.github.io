@@ -1,0 +1,42 @@
+<html>
+  <head>
+         <title>Placements</title>
+	<style>
+		h1{
+	text-align: center;
+	color: red;
+	}
+	p{
+	text-align: center;
+	}
+	.list{
+	
+	text-align: center;
+	list-style-type: none;
+	}
+	h2{
+	text-align: center;
+	}
+	</style>
+  </head>
+  <body>
+	<h1><u>Placements</u></h1>
+	<p>ITER provides you one of the best placements. Students are capable of getting good jobs and are passed out having good lpa<p>
+	
+	<h2>List of top companies higher students are below: </h2>
+	<ul class="list">
+		<li>Microsoft</li>
+		<li>Infosys</li>
+		<li>Oracle</li>
+		<li>Amazon</li>
+		<li>and more</li>
+	</ul>
+	<table>
+		<tr>
+			<td>Company</td>
+			<td> LPA</td>
+		</tr>
+
+
+  </body>
+</html>

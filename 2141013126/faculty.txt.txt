@@ -1,0 +1,14 @@
+<html>
+  <head>
+         <title>Faculty</title>
+  </head>
+  <body>
+	<h1><u>FACULTY</u></h1>
+	<p>ITER provides you one of the best learning experience and gaining knowledge from the most experienced faculties. Cse department has good and experienced number of faculty members. They are helpfull and help us going through every tough topics easily. Iter faculties are graduated from well known universities such as IITs,NITs and more.<p>
+	
+
+
+
+
+  </body>
+</html>

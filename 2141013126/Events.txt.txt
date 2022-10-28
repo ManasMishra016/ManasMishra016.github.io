@@ -1,0 +1,46 @@
+<html>
+  <head>
+         <title>Faculty</title>
+	<style>
+		h1{
+	text-align: center;
+	color: red;
+	}
+	p{
+	text-align: center;
+	}
+	.list{
+	
+	text-align: center;
+	text-decoration: none;
+	}
+	h2{
+	text-align: center;
+	}
+	</style>
+  </head>
+  <body>
+	<h1><u>Events</u></h1>
+	<p>Cse department of ITER conducts many events through out the year. They conduct to test the skillls of the students and a good interaction between students and the organizers occurs where they exchange ideas and thoughts .<p>
+	
+	<h2>List of events conducted from cse department are below: </h2>
+	<ul class="list">
+		<li>Hackathon</li>
+		<li>Codex Workshops</li>
+		<li>Hacktober fest</li>
+		<li>and more</li>
+
+	</ul>
+	
+	<h2>Clubs/Societies</h2>
+	<p> Cse department of ITER provides a lot of societies and clubs where students can take part in it adn can spend some time with there seniors and can interact with sharing many ideas.</p>
+	<h2>List of clubs in cse department are below: </h2>
+	<ul class="list">
+		<li>Codex</li>
+		<li>FabLab</li>
+		<li>IRC robitics club</li>
+		<li>Cyber club</li>
+		<li>and more</li>
+
+  </body>
+</html>

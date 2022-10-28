@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Iter</title>
+<style>
+
+
+
+<style>
+</head>
+<body>
+	<h1><u>CSE department of ITER</u></h1>
+	<p>Cse department of iter has a lot of experience and has good learning spirit. Here students are capable of using and learning variuos languages and can develope what ever they want like web dev,projects etc. 	Iter is one of the best colleges in india and has best faculty who helps us and guide us to gain us experience.</p>
+
+
+
+
+
+</body>
+</html>
